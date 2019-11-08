@@ -1,6 +1,7 @@
 # LOD-GEOSS.github.io
 
-Open dissemination channel for the LOD-GEOSS project. 
+https://lod-geoss.github.io/ is the open dissemination channel for the LOD-GEOSS project. 
+
 
 ## Content
 
