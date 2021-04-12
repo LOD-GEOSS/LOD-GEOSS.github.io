@@ -49,6 +49,10 @@ German Aerospac Center, [Institute of Networked Energy Systems](https://www.dlr.
 
 [Stuttgart University - Institute for Energy Economics and Rational Energy Use](https://www.ier.uni-stuttgart.de/en/)
 
+##
+
+contact: carsten.hoyer-klick@dlr.de 
+
 ## Funding
 
 This project is supported by the BMWi - Federal Ministry for Economic Affairs and Energy
