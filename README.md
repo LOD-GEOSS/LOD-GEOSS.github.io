@@ -47,6 +47,8 @@ German Aerospac Center, [Institute of Networked Energy Systems](https://www.dlr.
 
 [Forschungszentrum Jülich](https://www.fz-juelich.de)
 
+![IER](images/IER_Logo.png) 
+
 [Stuttgart University - Institute for Energy Economics and Rational Energy Use](https://www.ier.uni-stuttgart.de/en/)
 
 ## Contact
