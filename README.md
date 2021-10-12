@@ -9,8 +9,8 @@
 
 Our githup repostiroy can be found here [https://github.com/LOD-GEOSS/](https://github.com/LOD-GEOSS/). 
 
-- Deliverable D4.2 Best-Practice Guide GEOSS/Copernicus [https://lod-geoss.github.io/documents/LOD_GEOSS_D4_2_final.pdf]. 
-- Our Paper about the Open Energy Ontology [https://www.sciencedirect.com/science/article/pii/S2666546821000288]
+- Deliverable D4.2 Best-Practice Guide GEOSS/Copernicus [https://lod-geoss.github.io/documents/LOD_GEOSS_D4_2_final.pdf](https://lod-geoss.github.io/documents/LOD_GEOSS_D4_2_final.pdf). 
+- Our Paper about the Open Energy Ontology [https://www.sciencedirect.com/science/article/pii/S2666546821000288](https://www.sciencedirect.com/science/article/pii/S2666546821000288)
 
 ## Content
 ### Challenges
