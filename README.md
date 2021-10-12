@@ -9,6 +9,7 @@
 
 Our githup repostiroy can be found here [https://github.com/LOD-GEOSS/](https://github.com/LOD-GEOSS/). 
 
+- Architecture Condept [https://github.com/LOD-GEOSS/LOD-GEOSS.github.io/blob/master/documents/LOD-GEOSS%20M1%20Archtecture%20Concept_v0.9.2_Second_public_draft.pdf](https://github.com/LOD-GEOSS/LOD-GEOSS.github.io/blob/master/documents/LOD-GEOSS%20M1%20Archtecture%20Concept_v0.9.2_Second_public_draft.pdf)
 - Deliverable D4.2 Best-Practice Guide GEOSS/Copernicus [https://lod-geoss.github.io/documents/LOD_GEOSS_D4_2_final.pdf](https://lod-geoss.github.io/documents/LOD_GEOSS_D4_2_final.pdf). 
 - Our Paper about the Open Energy Ontology [https://www.sciencedirect.com/science/article/pii/S2666546821000288](https://www.sciencedirect.com/science/article/pii/S2666546821000288)
 
