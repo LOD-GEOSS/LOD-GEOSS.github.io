@@ -6,9 +6,11 @@
 [https://lod-geoss.github.io/](https://lod-geoss.github.io/) is the open dissemination channel for the LOD-GEOSS project. 
 ## Documents and Code
 
-This section will contain links to documents published by the project 
 
 Our githup repostiroy can be found here [https://github.com/LOD-GEOSS/](https://github.com/LOD-GEOSS/). 
+
+- Deliverable D4.2 [Best-Practice Guide GEOSS/Copernicus (documents/LOD_GEOSS_D4_2_final.pdf). 
+- Our Paper about the [Open Energy Ontology] (https://www.sciencedirect.com/science/article/pii/S2666546821000288)
 
 ## Content
 ### Challenges
