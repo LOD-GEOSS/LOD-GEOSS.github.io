@@ -1,0 +1,9 @@
+model;scenario;region;year;generating_capacity_for_one_unit_MW;average_annual_full_load_hours;forced_outage;planned_outage;technical_lifetime_years;construction_time_years;space_requirement_1000m2_MW;primary_regulation;secondary_regulation;nominal_investment;equipment_share_of_investment;installation_share_of_investment;fixed_O_M;variable_O_M;rotor_diameter;hub_height;fixed_O_M_unit
+dea_technology_data_generation ;value;Europe ;2015;0.025;1600;0.03;0.3;20;1;0.8;;;4;0.9;0.1;100000;;8;18;540
+dea_technology_data_generation ;value;Europe ;2020;0.025;1600;0.03;0.3;20;1;0.8;;;3.8;0.9;0.1;95000;;8;18;540
+dea_technology_data_generation ;value;Europe ;2030;0.025;1600;0.03;0.3;20;1;0.8;;;3.6;0.9;0.1;90000;;8;18;540
+dea_technology_data_generation ;value;Europe ;2050;0.025;1600;0.03;0.3;20;1;0.8;;;3.4;0.9;0.1;85000;;8;18;540
+dea_technology_data_generation ;uncertainty_lower;Europe ;2020;5;1000;0.02;0.1;;0.5;;;;3;0.85;0.1;;;4;14;350
+dea_technology_data_generation ;uncertainty_upper;Europe ;2020;25;2300;0.1;0.5;;1.5;;;;6;0.95;0.05;;;14;18;700
+dea_technology_data_generation ;uncertainty_lower;Europe ;2050;5;1000;0.02;0.1;;0.5;;;;3;0.85;0.15;;;4;14;350
+dea_technology_data_generation ;uncertainty_upper;Europe ;2050;25;2300;0.1;0.5;;1.5;;;;6;0.95;0.05;;;14;18;700

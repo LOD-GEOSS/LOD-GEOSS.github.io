@@ -1,0 +1,10 @@
+model;scenario;region;year;generating_capacity_for_one_unit_MW;average_annual_full_load_hours;forced_outage;planned_outage;technical_lifetime_years;construction_time_years;space_requirement_1000m2_MW;primary_regulation;secondary_regulation;nominal_investment;equipment_share_of_investment;installation_share_of_investment;grid_connection_share_of_investment;fixed_O_M;variable_O_M;rotor_diameter;hub_height;specific_power;average_capacity_factor;average_availability;specific_area_coverage
+dea_technology_data_generation_nearshore;value;Europe ;2015;8;4400;0.035;0.003;25;2;185;;;2.5;1;1.22;0.28;51570;3.9;164;103;379;0.5;0.96;5.4
+dea_technology_data_generation_nearshore;value;Europe ;2020;10;4500;0.03;0.003;27;2;222;;;1.75;0.67;0.81;0.27;36053;2.7;190;115;353;0.51;0.97;4.5
+dea_technology_data_generation_nearshore;value;Europe ;2030;15;4650;0.025;0.003;30;2;222;;;1.66;0.63;0.77;0.25;34250;3;235;135;346;0.53;0.97;4.5
+dea_technology_data_generation_nearshore;value;Europe ;2040;18;4700;0.023;0.003;30;2;222;;;1.6;0.61;0.74;0.25;32880;2.4;260;150;340;0.54;0.98;4.5
+dea_technology_data_generation_nearshore;value;Europe ;2050;20;4900;0.02;0.003;30;2;222;;;1.58;0.6;0.73;0.24;32538;2.4;280;160;332;0.56;0.98;4.5
+dea_technology_data_generation_nearshore;uncertainty_lower;Europe ;2020;8;4000;0.01;0.01;20;1;180;;;1.57;0.6;0.73;0.24;32448;2.4;;;;0.46;0.99;5.6
+dea_technology_data_generation_nearshore;uncertainty_upper;Europe ;2020;12;5000;0.05;0.05;35;3;240;;;1.84;0.7;0.85;0.28;37855;2.8;;;;0.57;0.95;4.2
+dea_technology_data_generation_nearshore;uncertainty_lower;Europe ;2050;10;4000;0.01;0.01;20;1;180;;;1.26;0.48;0.59;0.19;26030;1.9;;;;0.46;0.99;5.6
+dea_technology_data_generation_nearshore;uncertainty_upper;Europe ;2050;30;5500;0.05;0.05;35;3;240;;;1.74;0.66;0.81;0.27;35791;2.7;;;;0.63;0.95;4.2

@@ -1,0 +1,10 @@
+model;scenario;region;year;generating_capacity_for_one_unit_MW;average_annual_full_load_hours;forced_outage;planned_outage;technical_lifetime_years;construction_time_years;space_requirement_1000m2_MW;primary_regulation;secondary_regulation;nominal_investment;equipment_share_of_investment;installation_share_of_investment;grid_connection_share_of_investment;rent_of_land_share_of_investment;decommissioning_share_of_investment;other_factors_share_of_investment;fixed_O_M;variable_O_M;rotor_diameter;hub_height;specific_power;average_capacity_factor;average_availability
+dea_technology_data_generation_onshore;value;Europe ;2015;3.1;3100;0.03;0.003;25;1.5;;;;1.33;0.89;0.12;0.06;0.09;0.04;0.13;25600;2.8;106;85;351;0.35;0.97
+dea_technology_data_generation_onshore;value;Europe ;2020;4.2;3400;0.014;0.003;27;1.5;;;;1.12;0.71;0.09;0.05;0.09;0.04;0.14;14000;1.5;130;85;316;0.39;0.97
+dea_technology_data_generation_onshore;value;Europe ;2030;5;3600;0.02;0.003;30;1.5;;;;1.04;0.64;0.08;0.05;0.09;0.04;0.14;12600;1.35;145;100;303;0.41;0.98
+dea_technology_data_generation_onshore;value;Europe ;2040;5.5;3700;0.018;0.003;30;1.5;;;;0.98;0.59;0.08;0.05;0.09;0.04;0.14;11592;1.24;155;105;291;0.42;0.98
+dea_technology_data_generation_onshore;value;Europe ;2050;6;3800;0.015;0.003;30;1.5;;;;0.96;0.58;0.07;0.05;0.09;0.04;0.14;11340;1.22;165;110;281;0.43;0.98
+dea_technology_data_generation_onshore;uncertainty_lower;Europe ;2020;2;2000;0.014;0.001;25;1;;;;0.77;0.57;0.07;0.04;0.07;0.03;0.11;11200;1.2;90;85;314;0.23;0.99
+dea_technology_data_generation_onshore;uncertainty_upper;Europe ;2020;6;4000;0.05;0.005;35;3;;;;1.16;0.86;0.11;0.06;0.1;0.04;0.17;16800;1.8;130;120;452;0.46;0.95
+dea_technology_data_generation_onshore;uncertainty_lower;Europe ;2050;1.5;2000;0.01;0.001;25;1;;;;0.8;0.46;0.06;0.04;0.07;0.03;0.11;9072;0.97;100;85;191;0.23;0.99
+dea_technology_data_generation_onshore;uncertainty_upper;Europe ;2050;8;4500;0.05;0.005;40;3;;;;1.19;0.69;0.09;0.06;0.1;0.04;0.17;13608;1.46;150;150;453;0.51;0.95
